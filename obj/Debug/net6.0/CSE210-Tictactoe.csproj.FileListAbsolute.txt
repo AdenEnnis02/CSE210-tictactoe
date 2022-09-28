@@ -1,0 +1,15 @@
+/Users/adenennis/Documents/GitHub/CSE210-Tictactoe/bin/Debug/net6.0/CSE210-Tictactoe
+/Users/adenennis/Documents/GitHub/CSE210-Tictactoe/bin/Debug/net6.0/CSE210-Tictactoe.deps.json
+/Users/adenennis/Documents/GitHub/CSE210-Tictactoe/bin/Debug/net6.0/CSE210-Tictactoe.runtimeconfig.json
+/Users/adenennis/Documents/GitHub/CSE210-Tictactoe/bin/Debug/net6.0/CSE210-Tictactoe.dll
+/Users/adenennis/Documents/GitHub/CSE210-Tictactoe/bin/Debug/net6.0/CSE210-Tictactoe.pdb
+/Users/adenennis/Documents/GitHub/CSE210-Tictactoe/obj/Debug/net6.0/CSE210-Tictactoe.csproj.AssemblyReference.cache
+/Users/adenennis/Documents/GitHub/CSE210-Tictactoe/obj/Debug/net6.0/CSE210-Tictactoe.GeneratedMSBuildEditorConfig.editorconfig
+/Users/adenennis/Documents/GitHub/CSE210-Tictactoe/obj/Debug/net6.0/CSE210-Tictactoe.AssemblyInfoInputs.cache
+/Users/adenennis/Documents/GitHub/CSE210-Tictactoe/obj/Debug/net6.0/CSE210-Tictactoe.AssemblyInfo.cs
+/Users/adenennis/Documents/GitHub/CSE210-Tictactoe/obj/Debug/net6.0/CSE210-Tictactoe.csproj.CoreCompileInputs.cache
+/Users/adenennis/Documents/GitHub/CSE210-Tictactoe/obj/Debug/net6.0/CSE210-Tictactoe.dll
+/Users/adenennis/Documents/GitHub/CSE210-Tictactoe/obj/Debug/net6.0/refint/CSE210-Tictactoe.dll
+/Users/adenennis/Documents/GitHub/CSE210-Tictactoe/obj/Debug/net6.0/CSE210-Tictactoe.pdb
+/Users/adenennis/Documents/GitHub/CSE210-Tictactoe/obj/Debug/net6.0/CSE210-Tictactoe.genruntimeconfig.cache
+/Users/adenennis/Documents/GitHub/CSE210-Tictactoe/obj/Debug/net6.0/ref/CSE210-Tictactoe.dll
